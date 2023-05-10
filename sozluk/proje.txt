@@ -1,0 +1,99 @@
+das Jahr, e		 :   yıl			
+das Beispiel, e	 :	örnek			
+die Zeit, en	 :	zaman			
+die Frau, en	 :	kadın, eş		
+der Mensch, en	 :	insan,insanoğlu	 	
+das Kind, er	 : 	çocuk			
+der Tag, e		 :   gün			
+der Mann,..er	 :	erkek			
+das Land,..er/e	 :	ülke			
+die Frage, n	 : 	soru			
+das Haus, ..er	 :	ev			
+der Fall, ..e	 : 	durum, vaziyet		
+die Leute		 :   insanlar		
+die Arbeit, en	 :	iş, çalışma		
+das Prozent, e	 :	yüzde			
+das Hand, ..e	 :	el			
+die Stadt, ..e	 : 	şehir			
+der Herr, en	 :	bay, efendi		
+der Teil, e		 :  parça, bölüm		
+das Problem, e	 :	sorun			
+die Welt, en	 :	dünya			
+das Recht, e	 :	hak, doğru		
+das Ende, n		 :  son			
+die Million, en	 :	milyon			
+die Schule, n	 :	okul			
+die Woche		 :  hafta			
+der Vater, ..	 :	baba			
+die Seite, n	 :	sayfa			
+das Leben, –	 :	hayat			
+die Mutter, ..	 :	anne			
+der Grund, ..e	 :	sebep			
+das Auge,n		 :  göz			
+das Wort,..er/e  :	kelime			
+das Geld, er	 :	para			
+die Sache, n	 :	şey			
+die Art, en		 :  tip, tür		
+der Bereich, e	 :	alan			
+der Weg, e		 :  yol, patika		
+die Stunde, n	 :	saat			
+der Name, n		 :  isim, ad		
+die Geschichte, n:	tarih, öykü		
+die Gesellschaft,en : toplum			
+der Kopf, ..e	 :	kafa			
+das Paar, e		 :   çift			
+die Möglichkeit en :fırsat,imkan 		
+das Unternehmen, :  girişim,şirket		
+das Bild, er	 :	resim			
+das Wasser, –	 :	su			
+die Stelle, n	 :	baasmak, yer		
+die Form		 :  form, biçim		
+die Entwicklung, :  en	gelişim			
+der Monat, e	 :	ay			
+die Familie, n	 :	aile			
+der Morgen, –	 :	sabah			
+der Abend, e	 :	akşam			
+die Aufgabe, n	 :	görev			
+die Universität, :	en üniversite		
+die Uni			 :  üniversite		
+der Sinn, e		 :  anlam, duyu		
+der Staat, en	 :	eyalet, devlet		
+das Ziel, e		 :  amaç, hedef		
+der Freund, e	 :	arkadaş			
+das Thema, ta	 :	konu			
+die Person, en	 :	insan			
+die Nacht, ..e	 :	gece			
+das Ding, e		 :  şey			
+der Raum, ..e	 :	oda, boşluk		
+der Blick, e	 :	görünüm			
+der Platz, e	 :	yer, meydan		
+die Zahl, en	 :	sayı			
+das System, e	 :	sistem			
+die Uhr, en		 :  saat			
+die Eltern		 :  ebeveyn			
+die Straße, n	 :	sokak			
+die Minute, n	 :	dakika			
+die Gruppe, n	 :	grup			
+der Wert, e		 :   değer			
+das Gesicht, er	 :	yüz			
+die Sprache, n	 :	dil			
+der Anfang, ..e	 :	başlangıç		
+der Ort, e		 :  yer, belde		
+der Moment, e	 :	an			
+die Folge, n	 :	sonuç			
+das Interesse, n :	ilgi			
+der Stuhl, ..e	 :	sandalye		
+die Rolle, n	 :	rol, rulo		
+die Tür, en		 :   kapı			
+der Schüler, –	 :	öğrenci			
+die Bedeutung, en:	anlam			
+der Text, e		 :  metin			
+das Ergebnis, se :	sonuç			
+der Krieg, e	 :	savaş			
+die Weise, n	 :	yol			
+die Regierung, en: 	hükümet			
+das Stück, e	 :	parça, adet		
+die Wohnung, en	 :	apartman		
+das Gespräch, e	 :	konuşma, sohbet		
+das Buch, ..er	 :	kitap			
+das Auto, s		 :  araba			
